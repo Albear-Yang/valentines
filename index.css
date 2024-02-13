@@ -1,0 +1,22 @@
+#no {
+    transition: transform 0.4s;
+    background-color: red;
+}
+body {
+    background-color: white;
+    margin-top: 20%;
+    text-align: center;
+}
+button{
+    width: 10vh;
+    height: 5vh;
+    margin: 1%;
+    font-size: 2vh;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#loverboy{
+    width: 45%;
+}
+h1{
+    font-size: 5vh;
+}
